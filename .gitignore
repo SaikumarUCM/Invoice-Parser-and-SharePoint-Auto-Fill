@@ -1,0 +1,7 @@
+.env
+.venv
+temp
+__pycache__
+.env.example
+bubbly-mission-431916-m6-b730ab265a4a.json
+temp/
