@@ -266,7 +266,6 @@ invoice_parser/
 │   ├── streamlit_app.py # Vision-based Streamlit UI
 │   ├── vision_core.py   # Groq Vision + JSON core + Sheets/SharePoint helpers
 │   └── invoice-optimised.ipynb # Experiment notebook
-├── multi_llm_rag/       # Optional RAG demo with LangChain + Groq
 ├── requirements.txt
 ├── .env                 # Your local configuration (not committed)
 └── README.md
@@ -294,6 +293,3 @@ invoice_parser/
 
 ---
 
-## 11. License
-
-MIT
